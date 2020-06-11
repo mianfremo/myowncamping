@@ -3,3 +3,17 @@ header.masthead {
   background-image: url("../assets/img/header-basics.jpg") !important;
 
 }
+
+body{
+	background: rgb(69,172,207);
+	background: linear-gradient(180deg, rgba(69,172,207,1) 12%, rgba(255,255,255,1) 100%);
+}
+
+.text-orange{
+	color: #e7603d;
+}
+
+
+.titulos{
+	font-family: Roboto;
+}
