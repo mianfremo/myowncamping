@@ -1,10 +1,4 @@
 
-header.masthead {
-
-  background-image: url("../assets/img/header-extra.jpg") !important;
-
-}
-
 body{
 	background: rgb(69,172,207);
 	background: linear-gradient(180deg, rgba(69,172,207,1) 12%, rgba(255,255,255,1) 100%);
